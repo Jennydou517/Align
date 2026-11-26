@@ -27,3 +27,6 @@ The build uses a relative base path, so `dist/` can be served from any folder.
 to `main` that touches `site/` or `shared/fixtures/motion/`, and can be run by hand from the
 Actions tab. It needs Settings → Pages → Source set to "GitHub Actions" once. The site is then
 at https://bachnguyennn.github.io/Align/.
+
+The mobile preview from the `Jennydou517/Align` fork is deployed at
+https://jennydou517.github.io/Align/.
